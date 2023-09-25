@@ -1,8 +1,8 @@
 # Contatos_UNDII
 
-# Projeto de Contatos
+# Projeto de Contatos - Laboratório de Estruturas de Dados 2
 
-Este é um projeto de exemplo para gerenciar contatos utilizando uma tabela hash em linguagem C.
+Este é um projeto de exemplo para gerenciar contatos utilizando uma tabela hash em linguagem C, desenvolvido para a disciplina Laboratório de Estruturas de Dados 2.
 
 ## Funcionalidades
 
